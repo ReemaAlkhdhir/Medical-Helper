@@ -1,4 +1,4 @@
-# connect_to_database
+# Medical-Helper
 
 A new Flutter project.
 
